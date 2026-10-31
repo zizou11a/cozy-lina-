@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Cozy Lina logo">
+<defs>
+<pattern id="knit" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M1.5 2.5 L6 9 L10.5 2.5" fill="none" stroke="#8aa9d8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/></pattern>
+<clipPath id="r"><rect width="128" height="128" rx="30"/></clipPath>
+</defs>
+<g clip-path="url(#r)">
+<rect width="128" height="128" fill="#5f84bd"/>
+<rect width="128" height="128" fill="url(#knit)"/>
+</g>
+<path d="M64 101 C27 77 25 44 46 38 C56 35 62 41 64 47 C66 41 72 35 82 38 C103 44 101 77 64 101 Z" fill="#f08aa8" stroke="#fbe3ea" stroke-width="3" stroke-dasharray="5 4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M44 52 C46 47 52 46 56 50" fill="none" stroke="#fbe3ea" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+</svg>

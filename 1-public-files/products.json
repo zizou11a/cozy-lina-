@@ -1,0 +1,225 @@
+{
+ "_help": "Cozy Lina Finds: edit this file to add products. Only products with enabled not false, a name, and an https:// url are shown. Tags decide which stories show which products. Max 4 products per story. Nothing here is a real offer: replace the examples below with your own products and affiliate links.",
+ "articleTags": {
+  "how-i-stopped-overthinking-at-2am": [
+   "sleep",
+   "journal"
+  ],
+  "how-i-stopped-checking-my-phone": [
+   "sleep",
+   "bedroom"
+  ],
+  "the-night-i-thought-everyone-hated-me": [
+   "journal",
+   "selfcare"
+  ],
+  "why-my-brain-gets-loud-at-night": [
+   "sleep",
+   "selfcare"
+  ],
+  "how-i-learned-to-sleep-without-saying-sorry": [
+   "sleep",
+   "journal"
+  ],
+  "the-3am-thought-that-wasnt-true": [
+   "sleep",
+   "journal"
+  ],
+  "how-i-stopped-replaying-conversations-at-night": [
+   "sleep",
+   "journal"
+  ],
+  "my-brains-bedtime-stories-are-always-scary": [
+   "sleep",
+   "bedroom",
+   "reading"
+  ],
+  "how-i-parked-my-thoughts-before-sleep": [
+   "sleep",
+   "journal"
+  ],
+  "the-night-i-realized-worrying-doesnt-prevent-bad-things": [
+   "selfcare",
+   "journal"
+  ],
+  "how-i-stopped-needing-to-be-perfect-to-sleep": [
+   "journal",
+   "selfcare"
+  ],
+  "the-sunday-night-dread-is-not-a-prophecy": [
+   "selfcare",
+   "bedroom"
+  ],
+  "why-i-cant-stop-saying-im-fine-when-im-not": [
+   "selfcare",
+   "journal"
+  ],
+  "how-i-started-before-i-felt-ready": [
+   "selfcare"
+  ],
+  "what-my-body-said-when-my-mind-wouldnt-listen": [
+   "selfcare",
+   "bedroom"
+  ],
+  "how-i-stopped-comparing-my-life-to-everyone-elses-highlights": [
+   "selfcare"
+  ],
+  "how-i-stopped-thinking-my-friends-were-mad-at-me": [
+   "selfcare"
+  ],
+  "the-day-i-thought-i-was-annoying-i-was-just-tired": [
+   "selfcare",
+   "bedroom"
+  ],
+  "how-i-learned-to-text-without-overthinking-for-3-hours": [
+   "selfcare"
+  ],
+  "why-i-apologize-when-i-did-nothing-wrong": [
+   "selfcare"
+  ]
+ },
+ "products": [
+  {
+   "id": "sea-breeze-book-nook",
+   "enabled": true,
+   "name": "Sea Breeze Realm DIY Book Nook Kit",
+   "description": "A blue-and-white seaside alley in miniature, with balconies, stone paths, tiny café tables and warm lights, made to slide between the books on your shelf. It is a build-it-yourself kit (about 350 pieces, advanced level, roughly 8 to 12 hours), so it suits a slow, quiet evening of making something with your hands.",
+   "image": "/assets/images/product-sea-breeze-book-nook.webp",
+   "category": "Slow Cozy Evenings",
+   "url": "https://tidd.ly/4zdZH9f",
+   "price": "$44.99",
+   "badge": "DIY kit",
+   "tags": [
+    "reading",
+    "bedroom",
+    "selfcare",
+    "cozy"
+   ]
+  },
+  {
+   "id": "letter-coffee",
+   "enabled": true,
+   "name": "Letter Coffee DIY Miniature House Kit",
+   "description": "A quiet little café where handwritten letters, favorite books and the smell of coffee come together: a welcoming storefront, music-inspired details and an arched entrance that opens, all lit with warm lighting. It is a 368-piece kit at intermediate level (about 6 to 8 hours, easy to spread over a few evenings), and the listing says it includes assembly tools, miniature figures and batteries. About 8 x 8 x 10 in when finished.",
+   "image": "/assets/images/product-letter-coffee.webp",
+   "category": "Slow Cozy Evenings",
+   "url": "https://tidd.ly/4icBLgt",
+   "price": "$67.99",
+   "badge": "DIY kit",
+   "tags": [
+    "reading",
+    "bedroom",
+    "selfcare"
+   ]
+  },
+  {
+   "id": "twilight-book-city",
+   "enabled": true,
+   "name": "Twilight Book City DIY Miniature House Kit",
+   "description": "A little corner of a bookish town at dusk: a book shop, a book mall and a post office with warm glowing windows, built step by step. It is a 200-piece kit at intermediate level (about 6 to 8 hours), and the listing says it includes five assembly tools, two tubes of glue and lighting. A cozy project for book lovers who like slow, hands-on evenings.",
+   "image": "/assets/images/product-twilight-book-city.webp",
+   "category": "Slow Cozy Evenings",
+   "url": "https://tidd.ly/4yUOt8L",
+   "price": "$53.99",
+   "badge": "DIY kit",
+   "tags": [
+    "reading",
+    "bedroom",
+    "selfcare"
+   ]
+  },
+  {
+   "id": "magic-citadel-miniature-house",
+   "enabled": true,
+   "name": "Magic Citadel DIY Miniature House Kit",
+   "description": "A tiny gothic wizard’s house to build yourself, with a pointed tower, steep blue roof, stained-glass balcony, a crystal ball, potion shelves and touch-sensitive lights that glow through the windows. It is a 333-piece MDF kit (advanced level, about 6 to 7 hours), made for a long, quiet evening of building and for fantasy lovers who like miniature worlds.",
+   "image": "/assets/images/product-magic-citadel.webp",
+   "category": "Slow Cozy Evenings",
+   "url": "https://tidd.ly/4A6QkbE",
+   "price": "$65.99",
+   "badge": "DIY kit",
+   "tags": [
+    "reading",
+    "selfcare",
+    "bedroom"
+   ]
+  },
+  {
+   "id": "example-lamp",
+   "enabled": false,
+   "name": "PLACEHOLDER: Warm bedside lamp",
+   "description": "Replace with a short, honest description of the product.",
+   "image": "",
+   "category": "Slow Cozy Evenings",
+   "url": "",
+   "price": "",
+   "badge": "",
+   "tags": [
+    "sleep",
+    "bedroom"
+   ]
+  },
+  {
+   "id": "example-journal",
+   "enabled": false,
+   "name": "PLACEHOLDER: Gratitude journal",
+   "description": "Replace with a short, honest description of the product.",
+   "image": "",
+   "category": "Slow Cozy Evenings",
+   "url": "",
+   "price": "",
+   "badge": "",
+   "tags": [
+    "journal",
+    "selfcare"
+   ]
+  },
+  {
+   "id": "magic-collection-chamber",
+   "enabled": true,
+   "name": "Magic Collection Chamber DIY Book Nook Kit",
+   "description": "A tiny magical library to slide between your books: Gothic arches, curved staircases, shelves of miniature books, a celestial globe on the writing desk, a colorful window and a fireplace, with touch-sensitive lighting. It is a 336-piece kit at intermediate level (about 4 to 5 hours), made for readers and fantasy lovers who enjoy building miniature worlds.",
+   "image": "/assets/images/product-magic-collection-chamber.webp",
+   "category": "Slow Cozy Evenings",
+   "url": "https://tidd.ly/3Urj5R2",
+   "price": "$64.99",
+   "badge": "DIY kit",
+   "tags": [
+    "reading",
+    "bedroom",
+    "selfcare"
+   ]
+  },
+  {
+   "id": "spired-magic-shop",
+   "enabled": true,
+   "name": "Spired Magic Shop DIY Miniature House Kit",
+   "description": "A tiny Gothic-inspired potion shop to build yourself, with a soaring spire, colorful arched windows and an open storefront filled with miniature bottles, books and magical curiosities. It is a 174-piece wood and paper kit at intermediate level (about 3 to 4 hours, the shortest of our kits), with warm LED lighting, and about 6.1 x 5.1 x 6.7 in when finished.",
+   "image": "/assets/images/product-spired-magic-shop.webp",
+   "category": "Slow Cozy Evenings",
+   "url": "https://tidd.ly/4Brsrga",
+   "price": "$41.99",
+   "badge": "DIY kit",
+   "tags": [
+    "reading",
+    "bedroom",
+    "selfcare"
+   ]
+  },
+  {
+   "id": "photo-jigsaw-puzzle",
+   "enabled": true,
+   "name": "Custom Photo Jigsaw Puzzle",
+   "description": "Turn a favorite photo into a one-of-a-kind jigsaw puzzle, a sweet keepsake to give or to enjoy on a slow evening. The 300-piece puzzle (about 15 x 10.4 in) is made from white card, and glue is not included. The shop emails you within 2 days to confirm your image, and preparation takes 1 to 5 business days. Because each puzzle is made from your photo, returns are only accepted for damaged, defective or incorrect orders.",
+   "image": "/assets/images/product-photo-jigsaw-puzzle.webp",
+   "category": "Slow Cozy Evenings",
+   "url": "https://tidd.ly/4Brr1Cm",
+   "price": "$39.99",
+   "badge": "Custom gift",
+   "tags": [
+    "selfcare",
+    "bedroom"
+   ]
+  }
+ ]
+}

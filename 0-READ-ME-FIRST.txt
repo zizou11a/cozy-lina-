@@ -1,0 +1,10 @@
+Cozy Lina - upload batches (phone friendly)
+
+1-public-files        -> upload into GitHub folder:  public
+2-public-stories      -> upload into GitHub folder:  public/stories
+3-netlify-functions   -> upload into GitHub folder:  netlify/functions
+4-root-files          -> upload into the repository root
+
+Images are already uploaded (public/assets/images) - nothing to do.
+In GitHub: open the target folder, then Add file > Upload files, pick the files, Commit.
+To create a new folder: Add file > Create new file, type e.g. netlify/functions/.gitkeep
